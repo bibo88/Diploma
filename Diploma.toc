@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}OpenRISC Family}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}OpenRISC 1200}{2}{subsection.1.1}
+\contentsline {section}{\numberline {2}OR1200 Simulation}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Simulation Enviroment}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Package Structure}{6}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Simulation commands}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1} Η βασική διαδικασία}{7}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2} Εκτέλεση ενος συγκεκριμένου test}{8}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Εκτέλεση συγκεκριμένων tests μαζί}{8}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4} Παρέχοντας μια προσαρμοσμένη VMEM εικόνα (image)}{8}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5} Παρέχοντας ένα "precompiled" εκτελέσιμο .ELF αρχέιο}{8}{subsubsection.2.3.5}
+\contentsline {subsubsection}{\numberline {2.3.6} Κυματομορφές}{8}{subsubsection.2.3.6}
+\contentsline {subsubsection}{\numberline {2.3.7} Eπιπρόσθετα επιλογές στις εντολες}{9}{subsubsection.2.3.7}
