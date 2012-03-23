@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2011.4.28)  22 MAR 2012 23:05
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2011.4.28)  23 MAR 2012 04:25
 entering extended mode
  %&-line parsing enabled.
 **Diploma.tex
@@ -1585,10 +1585,6 @@ LaTeX Info: Redefining \pageref on input line 75.
 \openout3 = `Diploma.out'.
 
 \AtBeginShipoutBox=\box33
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \c@lstlisting=\count133
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
  on input line 75.
@@ -1655,7 +1651,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  LG1/ywcltt/m/n --> U/FreeMono(0)/bx/n on input line 75.
 
-(/home/federico/Documents/Kile/Diploma/Front_Page/title.tex
+ (/home/federico/Documents/Kile/Diploma/Front_Page/title.tex
 File: /home/federico/Documents/Kile/Diploma/Front_Page/ceid.png Graphic file (t
 ype QTm)
 
@@ -1678,7 +1674,7 @@ File: /home/federico/Documents/Kile/Diploma/Images/OR_family.png Graphic file (
 type QTm)
 
 <use  "/home/federico/Documents/Kile/Diploma/Images/OR_family.png" > [2]
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
+Underfull \hbox (badness 10000) in paragraph at lines 137--144
 
  []
 
@@ -1689,7 +1685,7 @@ File: /home/federico/Documents/Kile/Diploma/Images/or1200eval.png Graphic file
 (type QTm)
 
 <use  "/home/federico/Documents/Kile/Diploma/Images/or1200eval.png" > [4]
-Underfull \hbox (badness 10000) in paragraph at lines 259--265
+Underfull \hbox (badness 10000) in paragraph at lines 265--271
 
  []
 
@@ -1698,38 +1694,38 @@ File: /home/federico/Documents/Kile/Diploma/Images/overall_flow.png Graphic fil
 e (type QTm)
  <use  "/home/federico/Documents/Kile/Diploma/Images/overall_flow.png" >
 [6]
-Overfull \hbox (2.89844pt too wide) in paragraph at lines 342--343
+Overfull \hbox (2.89844pt too wide) in paragraph at lines 348--349
 []\U/FreeSerif(0)/m/it/10 test-name-executed.log \U/FreeSerif(0)/m/sc/10 : A tr
 ace of the processor after each executed instruction 
  []
 
 
-Overfull \hbox (2.33759pt too wide) in paragraph at lines 343--344
+Overfull \hbox (2.33759pt too wide) in paragraph at lines 349--350
 []\U/FreeSerif(0)/m/it/10 test-name-sprs.log \U/FreeSerif(0)/m/sc/10 : A list o
 f processor special purpose registers (SPR) accesses
  []
 
 
-Overfull \hbox (3.5951pt too wide) in paragraph at lines 344--345
+Overfull \hbox (3.5951pt too wide) in paragraph at lines 350--351
 []\U/FreeSerif(0)/m/it/10 test-name-lookup.log \U/FreeSerif(0)/m/sc/10 : A list
  of when each instruction was executed is generated 
  []
 
 [7]
-Overfull \hbox (24.5292pt too wide) in paragraph at lines 345--347
+Overfull \hbox (24.5292pt too wide) in paragraph at lines 351--353
 []\U/FreeSerif(0)/m/it/10 test-name-general.log \U/FreeSerif(0)/m/sc/10 : The u
 se of the processor’s report mechanism is commonplace
  []
 
 
-Overfull \hbox (3.84256pt too wide) in paragraph at lines 354--359
+Overfull \hbox (3.84256pt too wide) in paragraph at lines 360--365
 []\zf@basefont Η εξομοίωση ενός συγκεκριμένου test �
 �ίνετε με την εντολή \U/FreeSerif(0)/m/it/10 make rtl-test TEST
 =test-
  []
 
 
-Overfull \hbox (32.1334pt too wide) in paragraph at lines 354--359
+Overfull \hbox (32.1334pt too wide) in paragraph at lines 360--365
 \U/FreeSerif(0)/m/it/10 name[][][][][] \zf@basefont .Πρέπει το αρχε
 ίο \U/FreeSerif(0)/m/it/10 test-name.c \zf@basefont (ή \U/FreeSerif(0)/m/it/
 10 test-name.s \zf@basefont )να είναι τοποθετημένο στο \U
@@ -1737,7 +1733,7 @@ Overfull \hbox (32.1334pt too wide) in paragraph at lines 354--359
  []
 
 
-Overfull \hbox (93.48503pt too wide) in paragraph at lines 381--388
+Overfull \hbox (93.48503pt too wide) in paragraph at lines 387--394
 \zf@basefont το μονοπάτι στο οποίο βρίσκετε αυτό 
 το αρχείο. Για παράδειγμα \U/FreeSerif(0)/m/it/10 make rtl
 -test USER_ELF=/path/to/myapp.elf
@@ -1746,18 +1742,17 @@ Overfull \hbox (93.48503pt too wide) in paragraph at lines 381--388
 [8] [9] (./Diploma.aux)
 LaTeX Font Info:    Some font shapes were not available, defaults substituted.
  )
-(\end occurred inside a group at level 2)
+(\end occurred inside a group at level 1)
 
-### simple group (level 2) entered at line 330 ({)
-### simple group (level 1) entered at line 256 ({)
+### simple group (level 1) entered at line 262 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  12305 strings out of 494665
- 179982 string characters out of 1166477
+ 179940 string characters out of 1166477
  316894 words of memory out of 3000000
- 15338 multiletter control sequences out of 15000+50000
- 8532 words of font info for 54 fonts, out of 3000000 for 9000
+ 15340 multiletter control sequences out of 15000+50000
+ 8516 words of font info for 52 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,11n,72p,273b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,72p,389b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Diploma.pdf (10 pages).

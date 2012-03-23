@@ -73,11 +73,15 @@
 %\date{27/5/2011}
 
 \begin{document}
-\input{/home/federico/Documents/Kile/Diploma/Front_page/title.tex}
+\input{/home/federico/Documents/Kile/Diploma/Front_Page/title.tex}
 %\maketitle
 \newpage
 \tableofcontents
 \newpage
+
+\section{Εισαγωγή}
+{
+}
 
 \section{OpenRISC Family}
 {Η OpenRISC 1000 οικογένεια επεξεργαστών αναφέρεται σε μια ελεύθερη, ανοιχτού
@@ -253,6 +257,8 @@ support} & \textit{Linux, uClinux, OAR RTEMS RTOS}\\
 
 }
 
+
+
 \section{OR1200 Simulation}{
 
 \subsection{Simulation Enviroment}{
@@ -412,11 +418,8 @@ test software, as it allows for the checking of intermediate values after simula
 Προκαθορισμένος εξομοιωτής ειναι ο NC-Verilog.Άλλη επιλόγη ειναι το ICARUS.
 \end{itemize}
 
-
 }
 }
-
-
-
+}
 
 \end{document}
