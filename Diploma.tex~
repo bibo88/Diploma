@@ -66,6 +66,11 @@
    showtabs=false,
    showstringspaces=false} 
 
+%---------image border--------
+\usepackage{float}
+\floatstyle{boxed} 
+\restylefloat{figure}
+
 
 %opening
 %\title{\bf ΛΟΓΙΚΗ ΣΧΕΔΙΑΣΗ 2}
@@ -77,6 +82,7 @@
 %\maketitle
 \newpage
 \tableofcontents
+\listoffigures
 \newpage
 
 \section{Εισαγωγή}
