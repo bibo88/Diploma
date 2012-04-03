@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2011.4.28)  31 MAR 2012 17:16
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2011.4.28)  3 APR 2012 20:06
 entering extended mode
  %&-line parsing enabled.
 **Diploma.tex
@@ -1559,25 +1559,25 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
  (./Diploma.aux)
 \openout1 = `Diploma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for LG1/ywclr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-Package hyperref Info: Link coloring ON on input line 80.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for LG1/ywclr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+Package hyperref Info: Link coloring ON on input line 85.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -1587,8 +1587,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count133
 )
-LaTeX Info: Redefining \ref on input line 80.
-LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
  (./Diploma.out)
 (./Diploma.out)
 \@outlinefile=\write3
@@ -1597,69 +1597,69 @@ LaTeX Info: Redefining \pageref on input line 80.
 \AtBeginShipoutBox=\box35
 \c@lstlisting=\count134
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
- on input line 80.
+ on input line 85.
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 80.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 80.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 80.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 80.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 80.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 80.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 80.
-LaTeX Font Info:    Redeclaring math accent \check on input line 80.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 80.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 80.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 80.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 80.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 80.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 85.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 85.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 85.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 85.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 85.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 85.
+LaTeX Font Info:    Redeclaring math accent \check on input line 85.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 85.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 85.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 85.
 LaTeX Font Info:    Encoding `OT1' has changed to `U' for symbol font
-(Font)              `operators' in the math version `normal' on input line 80.
+(Font)              `operators' in the math version `normal' on input line 85.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> U/FreeSerif(0)/m/n on input line 80.
+(Font)                  OT1/cmr/m/n --> U/FreeSerif(0)/m/n on input line 85.
 LaTeX Font Info:    Encoding `OT1' has changed to `U' for symbol font
-(Font)              `operators' in the math version `bold' on input line 80.
+(Font)              `operators' in the math version `bold' on input line 85.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> U/FreeSerif(0)/m/n on input line 80.
+(Font)                  OT1/cmr/bx/n --> U/FreeSerif(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  U/FreeSerif(0)/m/n --> U/FreeSerif(0)/m/n on input line
- 80.
+ 85.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  LG1/ywclr/m/n --> U/FreeSerif(0)/m/n on input line 80.
+(Font)                  LG1/ywclr/m/n --> U/FreeSerif(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  LG1/ywclr/m/it --> U/FreeSerif(0)/m/it on input line 80
+(Font)                  LG1/ywclr/m/it --> U/FreeSerif(0)/m/it on input line 85
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  LG1/ywclr/bx/n --> U/FreeSerif(0)/bx/n on input line 80
+(Font)                  LG1/ywclr/bx/n --> U/FreeSerif(0)/bx/n on input line 85
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  LG1/ywclss/m/n --> U/FreeSans(0)/m/n on input line 80.
+(Font)                  LG1/ywclss/m/n --> U/FreeSans(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  LG1/ywcltt/m/n --> U/FreeMono(0)/m/n on input line 80.
+(Font)                  LG1/ywcltt/m/n --> U/FreeMono(0)/m/n on input line 85.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  U/FreeSerif(0)/m/n --> U/FreeSerif(0)/bx/n on input lin
-e 80.
+e 85.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  LG1/ywclr/m/n --> U/FreeSerif(0)/bx/n on input line 80.
+(Font)                  LG1/ywclr/m/n --> U/FreeSerif(0)/bx/n on input line 85.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> U/FreeSerif(0)/bx/it on input line 80
+(Font)                  OT1/cmr/bx/it --> U/FreeSerif(0)/bx/it on input line 85
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> U/FreeSans(0)/bx/n on input line 80.
+(Font)                  OT1/cmss/bx/n --> U/FreeSans(0)/bx/n on input line 85.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  LG1/ywcltt/m/n --> U/FreeMono(0)/bx/n on input line 80.
+(Font)                  LG1/ywcltt/m/n --> U/FreeMono(0)/bx/n on input line 85.
 
  (/home/federico/Documents/Kile/Diploma/Front_Page/title.tex
 File: /home/federico/Documents/Kile/Diploma/Front_Page/ceid.png Graphic file (t
@@ -1678,68 +1678,105 @@ LaTeX Font Info:    Font shape `U/FreeSerif(0)/m/sc' undefined
 LaTeX Font Info:    Font shape `U/FreeSerif(0)/m/sl' in size <10> not available
 
 (Font)              Font shape `U/FreeSerif(0)/m/it' tried instead on input lin
-e 85.
+e 90.
  [1] (./Diploma.lof)
 \tf@lof=\write5
 \openout5 = `Diploma.lof'.
 
- [2]
+ [2] (./Diploma.lot)
+\tf@lot=\write6
+\openout6 = `Diploma.lot'.
+
+ [3]
 File: /home/federico/Documents/Kile/Diploma/Images/OR_family.png Graphic file (
 type QTm)
 
-<use  "/home/federico/Documents/Kile/Diploma/Images/OR_family.png" > [3]
-Underfull \hbox (badness 10000) in paragraph at lines 144--151
-
- []
-
+<use  "/home/federico/Documents/Kile/Diploma/Images/OR_family.png" > [4]
+[5] [6]
 File: /home/federico/Documents/Kile/Diploma/Images/or1200.png Graphic file (typ
 e QTm)
-<use  "/home/federico/Documents/Kile/Diploma/Images/or1200.png" > [4]
-File: /home/federico/Documents/Kile/Diploma/Images/or1200eval.png Graphic file 
-(type QTm)
+ <use  "/home/federico/Documents/Kile/Diploma/Images/or1200.png" >
+File: ./Images/cpu-dsp.png Graphic file (type QTm)
 
-<use  "/home/federico/Documents/Kile/Diploma/Images/or1200eval.png" > [5]
-Underfull \hbox (badness 10000) in paragraph at lines 272--278
+<use  "./Images/cpu-dsp.png" >
+Overfull \hbox (13.34499pt too wide) in paragraph at lines 281--284
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--295
 
  []
 
-[6]
+
+Overfull \hbox (6.38924pt too wide) in paragraph at lines 290--295
+[] \U/FreeSerif(0)/m/sc/10 Η μονάδα εντολών (instruction unit) υ
+λοποιεί την βασική pipeline διαδικασία,φέρνει
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--295
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 296--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--321
+
+ []
+
+[8]
 File: /home/federico/Documents/Kile/Diploma/Images/overall_flow.png Graphic fil
 e (type QTm)
  <use  "/home/federico/Documents/Kile/Diploma/Images/overall_flow.png" >
-[7]
-Overfull \hbox (2.89844pt too wide) in paragraph at lines 355--356
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10]
+Overfull \hbox (2.89844pt too wide) in paragraph at lines 398--399
 []\U/FreeSerif(0)/m/it/10 test-name-executed.log \U/FreeSerif(0)/m/sc/10 : A tr
 ace of the processor after each executed instruction 
  []
 
 
-Overfull \hbox (2.33759pt too wide) in paragraph at lines 356--357
+Overfull \hbox (2.33759pt too wide) in paragraph at lines 399--400
 []\U/FreeSerif(0)/m/it/10 test-name-sprs.log \U/FreeSerif(0)/m/sc/10 : A list o
 f processor special purpose registers (SPR) accesses
  []
 
 
-Overfull \hbox (3.5951pt too wide) in paragraph at lines 357--358
+Overfull \hbox (3.5951pt too wide) in paragraph at lines 400--401
 []\U/FreeSerif(0)/m/it/10 test-name-lookup.log \U/FreeSerif(0)/m/sc/10 : A list
  of when each instruction was executed is generated 
  []
 
-[8]
-Overfull \hbox (24.5292pt too wide) in paragraph at lines 358--360
+
+Overfull \hbox (24.5292pt too wide) in paragraph at lines 401--403
 []\U/FreeSerif(0)/m/it/10 test-name-general.log \U/FreeSerif(0)/m/sc/10 : The u
 se of the processor’s report mechanism is commonplace
  []
 
 
-Overfull \hbox (3.84256pt too wide) in paragraph at lines 367--372
+Overfull \hbox (3.84256pt too wide) in paragraph at lines 410--415
 []\zf@basefont Η εξομοίωση ενός συγκεκριμένου test �
 �ίνετε με την εντολή \U/FreeSerif(0)/m/it/10 make rtl-test TEST
 =test-
  []
 
 
-Overfull \hbox (32.1334pt too wide) in paragraph at lines 367--372
+Overfull \hbox (32.1334pt too wide) in paragraph at lines 410--415
 \U/FreeSerif(0)/m/it/10 name[][][][][] \zf@basefont .Πρέπει το αρχε
 ίο \U/FreeSerif(0)/m/it/10 test-name.c \zf@basefont (ή \U/FreeSerif(0)/m/it/
 10 test-name.s \zf@basefont )να είναι τοποθετημένο στο \U
@@ -1747,26 +1784,26 @@ Overfull \hbox (32.1334pt too wide) in paragraph at lines 367--372
  []
 
 
-Overfull \hbox (93.48503pt too wide) in paragraph at lines 394--401
+Overfull \hbox (93.48503pt too wide) in paragraph at lines 437--444
 \zf@basefont το μονοπάτι στο οποίο βρίσκετε αυτό 
 το αρχείο. Για παράδειγμα \U/FreeSerif(0)/m/it/10 make rtl
 -test USER_ELF=/path/to/myapp.elf
  []
 
-[9] [10] (./Diploma.aux)
+[11] [12] (./Diploma.aux)
 LaTeX Font Info:    Some font shapes were not available, defaults substituted.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 269 ({)
+### simple group (level 1) entered at line 312 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 12359 strings out of 494665
- 180630 string characters out of 1166477
- 316894 words of memory out of 3000000
- 15387 multiletter control sequences out of 15000+50000
+ 12368 strings out of 494665
+ 180688 string characters out of 1166477
+ 315894 words of memory out of 3000000
+ 15392 multiletter control sequences out of 15000+50000
  8516 words of font info for 52 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,11n,72p,389b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,11n,72p,389b,493s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Diploma.pdf (11 pages).
+Output written on Diploma.pdf (13 pages).

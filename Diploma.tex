@@ -71,6 +71,11 @@
 \floatstyle{boxed} 
 \restylefloat{figure}
 
+%---------Figures numbering by section--------
+\usepackage{amsmath}
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
 
 %opening
 %\title{\bf ΛΟΓΙΚΗ ΣΧΕΔΙΑΣΗ 2}
@@ -85,17 +90,26 @@
 \newpage
 \listoffigures
 \newpage
+\listoftables
+\newpage
 
 \section{Εισαγωγή}
 {
+
+
 }
 
-\section{OpenRISC Family}
+\section{OpenRISC 1200 IP Core}
+{
+\subsection{Εισαγωγή}
+{
+}
+\subsubsection{OpenRISC Οικογένεια}
 {Η OpenRISC 1000 οικογένεια επεξεργαστών αναφέρεται σε μια ελεύθερη, ανοιχτού
 λογισμικού RISC αρχιτεκτονική κεντρικών μονάδων επεξεργασίας.Σχετικά με την
 αρχιτεκτονική, η OpenRISC 1000 οικογένεια στοχεύει σε ένα φάσμα υλοποιήσεων που	
 ποικίλουν ως προς την τιμή/αποδοση και το είδος της εφαρμογής.Είναι μια 
-32/64-bit φορτωσης και αποθήκευσης (load and store) RISC αρχιτεκτονική που σχεδιάστηκε
+32/64-bit φόρτωσης και αποθήκευσης (load and store) RISC αρχιτεκτονική που σχεδιάστηκε
 με έμφαση στην απόδοση, στην απλότητα, στην χαμηλή ενεργειακή κατανάλωση, στην επεκτασιμότητα
 και στην ευελιξία.Η OpenRISC αρχιτεκτονίκη στοχεύει σε μεσσαία και υψηλή απόδοση
 δικτύωσης (networking), σε ενσωματομένα, αυτοκινητοβιομηχανικά και φορητά υπολογιστηκά περιβάλλοντα.
@@ -114,9 +128,10 @@
 (identification number) ειναι '1' ανήκουν στην 
 OpenRISC 1000 οικογένεια.Το δεύτερο ψηφίο ορίζει ποια χαρακτηριστικά της OpenRISC
 1000 αρχιτεκτονικής είναι υλοποιημένα και με ποιο τρόπο είναι υλοποιημένα.Τα δύο
-τελευταία ψηφία αναφέρονται στο πως μια υλοποιήση ηταν παραμετροποιημένη πριν 
+τελευταία ψηφία αναφέρονται στο πως μια υλοποίηση ηταν παραμετροποιημένη πριν 
 χρησιμοποιηθει σε πραγματική εφαρμογή.
-\subsection{OpenRISC 1200}
+}
+\subsubsection{OpenRISC 1200}
 { Ο OR1200 είναι ενας 32-bit βαθμωτός RISC επεξεργαστής με Harvard μικροαρχιτεκτονική,
 5 stage integer pipeline, υποστήριξη εικονικής μνήμης (MMU) και βασικές δυνατότητες
 DSP.
@@ -145,36 +160,7 @@ DSP.
 συστήματα.Μπορεί να ανταγωνιστεί τους τελευταίους βαθμωτούς 32-bit RISC επεξεργαστές
 της κλάσης του και να υποστηρίξει αποδοτικά οποιοδήποτε μοντέρνο λειτουργικό σύστημα.
 Ανταγωνιστές του θεωρούνται οι ARM10, ARC και Tensilica RISC επεξεργαστές.
-\newline \newline
-Παρακάτω βρίσκεται η σχηματική αναπαράσταση του OR1200 επεξεργαστή με τις υπομονάδες
-που τον αποτελούν.
-
-\begin{figure}[h!]
- \centering
- \includegraphics[bb=0 0 905 625,scale=0.3]{/home/federico/Documents/Kile/Diploma/Images/or1200.png}
- % or1200.png: 905x625 pixel, 72dpi, 31.93x22.05 cm, bb=0 0 905 625
- \caption{Core's Architecture}
-\end{figure}
-
-\begin{itemize}
- \item CPU/FPU/DSP central block.
- \item Direct-mapped data cache.
- \item Direct-mapped instruction cache.
- \item Data MMU based on hash based DTLB.
- \item Instruction MMU based on hash based ITLB.
- \item Power management unit and power management interface.
- \item Tick timer.
- \item Debug unit and development interface.
- \item Interrupt controller and interrupt interface.
- \item Instruction and Data WISHBONE host interfaces.
-\end{itemize}
-\begin{figure}[h!]
- \centering
- \includegraphics[bb=0 0 852 537,scale=0.4]{/home/federico/Documents/Kile/Diploma/Images/or1200eval.png}
- % or1200eval.png: 852x537 pixel, 72dpi, 30.06x18.94 cm, bb=0 0 852 537
- \caption{OR1200 Overview}
-\end{figure}
-
+\newline
 Συνοπτικά παρουσιάζονται παρακάτω τα χαρακτηριστικά του OR1200:
 
 {%
@@ -183,6 +169,7 @@ DSP.
 \definecolor{tcA}{rgb}{0.498039,0.819608,0.231373}
 \definecolor{tcB}{rgb}{0.847059,0.933333,0.807843}
 \definecolor{tcC}{rgb}{0.87451,0.917647,0.858824}
+\begin{table}
 \begin{center}
 \begin{tabular}{ll}
 % use packages: color,colortbl
@@ -256,12 +243,68 @@ On-chip RAM & \textit{Configurable} \\
 support} & \textit{Linux, uClinux, OAR RTEMS RTOS}\\
 \end{tabular}
 \end{center}
-
+\caption{Overview of OR1200 specifications}
+\end{table}
 }%
 \vspace{0.7cm}
+\newpage
 }
 
+\subsection{Αρχιτεκτονική}
+Στο παρακάτω σχήμα βρίσκεται η σχηματική αναπαράσταση του OR1200 επεξεργαστή όπου αποτελείται από τις εξής υπομονάδες:
+\begin{itemize}
+ \item CPU/FPU/DSP central block.
+ \item Direct-mapped data cache.
+ \item Direct-mapped instruction cache.
+ \item Data MMU based on hash based DTLB.
+ \item Instruction MMU based on hash based ITLB.
+ \item Power management unit and power management interface.
+ \item Tick timer.
+ \item Debug unit and development interface.
+ \item Interrupt controller and interrupt interface.
+ \item Instruction and Data WISHBONE host interfaces.
+\end{itemize}
+\begin{figure}[h!]
+ \centering
+ \includegraphics[bb=0 0 905 625,scale=0.3]{/home/federico/Documents/Kile/Diploma/Images/or1200.png}
+ % or1200.png: 905x625 pixel, 72dpi, 31.93x22.05 cm, bb=0 0 905 625
+ \caption{Core's Architecture}
+\end{figure}
 
+\subsubsection{CPU/DSP}
+Το μπλόκ CPU/DSP είναι ένα κεντρικό κομμάτι του επεξεργαστή OR1200 RISC. Το σχήμα 2.3 δείχνει
+το βασικό μπλόκ διάγραμμα του CPU/DSP.
+
+\vspace{0.7cm}
+\begin{figure}[h!]
+ \centering
+ \includegraphics[bb=0 0 1020 613,scale=0.35]{./Images/cpu-dsp.png}
+ % cpu-dsp.png: 1020x613 pixel, 72dpi, 35.98x21.63 cm, bb=0 0 1020 613
+ \caption{CPU/DSP block diagram.}
+\end{figure}
+
+\vspace{0.7cm}
+
+\paragraph{Instruction Unit\newline\newline}
+
+Η μονάδα εντολών (instruction unit) υλοποιεί την βασική pipeline διαδικασία,φέρνει τις
+εντολές απο το υποσύστημα της μνήμης, τις αποστέλει στις διαθέσιμες μονάδες εκτέλεσης (execution unit)
+και διατηρεί ενα ιστορικό καταστάσεων ώστε να εξασφαλίσει ένα ακριβές μοντέλο εξαιρέσεων (exception model)
+για τον σωστό τερματισμό των εργασιών.Επίσης εκτελεί τις υπό όρους και άνευ όρων εντολές διακλάδωσης.
+\newline
+
+Παράλληλα μπορεί να στείλει διαδοχικές εντολές σε κάθε ρολόι αν η κατάλληλη μονάδα εκτέλεσης
+είναι διαθέσιμη.Η μονάδα εκτέλεσης είναι αυτή που πρέπει να διακρίνει αν τα δεδομένα που χρειάζεται
+η εντολή είναι διαθέσιμα και να διασφαλίσει ότι καμία άλλη εντολή δεν χρησιμοποιεί εκείνη την
+στιγμή τον ίδιο καταχωρητή.
+\newline
+
+Τέλος η μονάδα εντολών χειρίζεται μόνο τις εντολές της κλάσης ORBIS32. Οι εντολές των κλάσεων
+ORFPX32/64 και ORVDX64 δεν υποστηρίζονται ακόμα από τον OR1200. 
+
+\paragraph{General-Purpose Registers\newline\newline}
+
+Ο OpenRISC 1200 χρησιμοποιεί 32 καταχωρητές γενικού σκοπού των 32 δυαδικών ψηφίων.
 }
 
 
@@ -271,14 +314,14 @@ support} & \textit{Linux, uClinux, OAR RTEMS RTOS}\\
 \subsection{Simulation Enviroment}{
 Υπάρχουν δύο περιβάλλοντα με τα οποία γίνετε η εξομοίωση του OR1200 επεξεργαστή.
 Το πρώτο χρησιμοποιεί τον OpenRISC αρχιτεκτονικό εξομοιωτή \emph{or1ksim} και 
-το δεύτερο χρησιμοποιέι τον \emph{NC-Verilog} εξoμοιωτή που κάνει εξομοίωση με βάση
+το δεύτερο χρησιμοποιεί τον \emph{NC-Verilog} εξoμοιωτή που κάνει εξομοίωση με βάση
 το υλικό (hardware based simulation).Στο πρώτο περιβάλλον γίνετε η επαλήθευση
 της λειτουργικότητας των benchmarks και στο δεύτερο προσομοιώνεται η ουσιαστική
 λειτουργία του OR1200 σε επίπεδο υλικού με βάση το benchmark που εκτελέσαμε.\newline
 
 
 Η συνολική ροή της εξομοίωσης παρουσιάζεται στο Σχήμα 4.Τα benchmarks είναι 
-είτε .C αρχέια είτε .S αρχεία.Αύτα τα αρχεία, αρχίκα γίνονται cross-compiled
+είτε .C αρχέια είτε .S αρχεία.Αυτά τα αρχεία, αρχίκα γίνονται cross-compiled
  χρησιμοποιώντας την εντολή or32-uclinux-gcc και παράγουν ένα .O object αρχείο.
 Το object αρχείο μετά μετατρέπεται σε ενα .OR32 εκτελέσιμο αρχείο χρησιμοποιώντας
 την συνδετική εντολή or32-uclinux-ld. Αυτό το εκτελέσιμο αρχέιο χρησιμοποιείται

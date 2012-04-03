@@ -19,15 +19,19 @@
 
 % Author and supervisor
 \begin{minipage}{0.4\textwidth}
-\begin{flushright} \large
+\begin{flushleft} \large
 \emph{Author:}\\
-Χαράλαμπος \textsc{Καλάργαρης}
-\end{flushright}
+Χαράλαμπος 
+
+\textsc{Καλάργαρης}
+\end{flushleft}
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
 \emph{Supervisor:} \\
-Θεμιστοκλής \textsc{Χανιωτάκης}
+Θεμιστοκλής 
+
+\textsc{Χανιωτάκης}
 \end{flushright}
 \end{minipage}
 
