@@ -1,1 +1,6 @@
-\contentsline {table}{\numberline {2.1}{\ignorespaces Overview of OR1200 specifications}}{6}{table.2.1}
+\contentsline {table}{\numberline {2.1.1}{\ignorespaces Overview of OR1200 specifications}}{7}{table.2.1.1}
+\contentsline {table}{\numberline {2.2.1}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης δεδομένων}}{12}{table.2.2.1}
+\contentsline {table}{\numberline {2.2.2}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης εντολών}}{14}{table.2.2.2}
+\contentsline {table}{\numberline {2.2.3}{\ignorespaces Ρυθμίσεις Δεδομένων TLB (translation lookaside buffer)}}{16}{table.2.2.3}
+\contentsline {table}{\numberline {2.2.4}{\ignorespaces Ρυθμίσεις Εντολών TLB (translation lookaside buffer)}}{18}{table.2.2.4}
+\contentsline {table}{\numberline {2.2.5}{\ignorespaces Καταστάσεις βελτιστοποίησης κατανάλωσης ενέργειας.}}{21}{table.2.2.5}

@@ -1,20 +1,36 @@
 \contentsline {section}{\numberline {1}Εισαγωγή}{4}{section.1}
-\contentsline {section}{\numberline {2}OpenRISC 1200 IP Core}{4}{section.2}
-\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{4}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}OpenRISC Οικογένεια}{4}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}OpenRISC 1200}{4}{subsubsection.2.1.2}
-\contentsline {subsection}{\numberline {2.2}Αρχιτεκτονική}{7}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}CPU/DSP}{7}{subsubsection.2.2.1}
-\contentsline {paragraph}{Instruction Unit\newline \newline }{8}{section*.4}
-\contentsline {paragraph}{General-Purpose Registers\newline \newline }{8}{section*.5}
-\contentsline {section}{\numberline {3}OR1200 Simulation}{9}{section.3}
-\contentsline {subsection}{\numberline {3.1}Simulation Enviroment}{9}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Package Structure}{9}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Simulation commands}{11}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1} Η βασική διαδικασία}{11}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2} Εκτέλεση ενος συγκεκριμένου test}{11}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Εκτέλεση συγκεκριμένων tests μαζί}{11}{subsubsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.4} Παρέχοντας μια προσαρμοσμένη VMEM εικόνα (image)}{11}{subsubsection.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.5} Παρέχοντας ένα "precompiled" εκτελέσιμο .ELF αρχέιο}{12}{subsubsection.3.3.5}
-\contentsline {subsubsection}{\numberline {3.3.6} Κυματομορφές}{12}{subsubsection.3.3.6}
-\contentsline {subsubsection}{\numberline {3.3.7} Eπιπρόσθετα επιλογές στις εντολες}{12}{subsubsection.3.3.7}
+\contentsline {section}{\numberline {2}OpenRISC 1200 IP Core}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{5}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}OpenRISC Οικογένεια}{5}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}OpenRISC 1200}{5}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Αρχιτεκτονική}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}CPU/DSP}{8}{subsubsection.2.2.1}
+\contentsline {paragraph}{Μονάδα Εντολών\newline \newline }{9}{section*.4}
+\contentsline {paragraph}{Καταχωρητές Γενικού Σκοπού\newline \newline }{9}{section*.5}
+\contentsline {paragraph}{Μονάδα Load/Store\newline \newline }{10}{section*.6}
+\contentsline {paragraph}{Πράξεις ακεραίων\newline \newline }{10}{section*.7}
+\contentsline {paragraph}{Μονάδα MAC\newline \newline }{10}{section*.8}
+\contentsline {paragraph}{Μονάδα Κινητής Υποδιαστολής\newline \newline }{11}{section*.9}
+\contentsline {paragraph}{Μονάδα Συστήματος\newline \newline }{11}{section*.10}
+\contentsline {paragraph}{Μονάδα Εξαιρέσεων \newline \newline }{11}{section*.11}
+\contentsline {subsubsection}{\numberline {2.2.2}Κρυφή Μνήμη Δεδομένων}{11}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Κρυφή Μνήμη Εντολών}{14}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Διαχείριση Μνήμης (MMU) Δεδομένων}{16}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Διαχείριση Μνήμης (MMU) Εντολών}{17}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Προγραμματιζόμενος Ελεγκτής Διακοπών}{19}{subsubsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.7}Tick Timer}{20}{subsubsection.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.8}Διαχείριση Ενεργειακών Απαιτήσεων}{20}{subsubsection.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.9}Μονάδα Αποσφαλμάτωσης}{21}{subsubsection.2.2.9}
+\contentsline {subsubsection}{\numberline {2.2.10}Σήματα Χρονισμού και Επανεκκίνησης}{21}{subsubsection.2.2.10}
+\contentsline {subsubsection}{\numberline {2.2.11}Δίαυλος επικοινωνίας Wishbone}{22}{subsubsection.2.2.11}
+\contentsline {section}{\numberline {3}OR1200 Simulation}{23}{section.3}
+\contentsline {subsection}{\numberline {3.1}Simulation Enviroment}{23}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Package Structure}{23}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Simulation commands}{25}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1} Η βασική διαδικασία}{25}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2} Εκτέλεση ενος συγκεκριμένου test}{25}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Εκτέλεση συγκεκριμένων tests μαζί}{25}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4} Παρέχοντας μια προσαρμοσμένη VMEM εικόνα (image)}{25}{subsubsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.5} Παρέχοντας ένα "precompiled" εκτελέσιμο .ELF αρχέιο}{26}{subsubsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.6} Κυματομορφές}{26}{subsubsection.3.3.6}
+\contentsline {subsubsection}{\numberline {3.3.7} Eπιπρόσθετα επιλογές στις εντολες}{26}{subsubsection.3.3.7}

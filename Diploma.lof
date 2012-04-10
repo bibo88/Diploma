@@ -1,4 +1,10 @@
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Σχηματική αναπαράσταση OpenRISC αρχιτεκτονικής.}}{4}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Core's Architecture}}{7}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces CPU/DSP block diagram.}}{8}{figure.2.3}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Συνολική ροή εξομοίωσης.}}{10}{figure.3.1}
+\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Σχηματική αναπαράσταση OpenRISC αρχιτεκτονικής.}}{5}{figure.2.1.1}
+\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Core's Architecture}}{8}{figure.2.2.1}
+\contentsline {figure}{\numberline {2.2.2}{\ignorespaces CPU/DSP block diagram.}}{9}{figure.2.2.2}
+\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Οργάνωση κρυφής μνήμης δεδομένων.}}{13}{figure.2.2.3}
+\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Οργάνωση κρυφής μνήμης εντολών}}{15}{figure.2.2.4}
+\contentsline {figure}{\numberline {2.2.5}{\ignorespaces Οργάνωση MMU δεδομένων.}}{17}{figure.2.2.5}
+\contentsline {figure}{\numberline {2.2.6}{\ignorespaces Οργάνωση MMU εντολών.}}{19}{figure.2.2.6}
+\contentsline {figure}{\numberline {2.2.7}{\ignorespaces Μπλοκ διάγραμμα του ελεγκτή διακοπών.}}{20}{figure.2.2.7}
+\contentsline {figure}{\numberline {2.2.8}{\ignorespaces Μπλόκ διάγραμμα μονάδας αποσφαλμάτωσης.}}{22}{figure.2.2.8}
+\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Συνολική ροή εξομοίωσης.}}{24}{figure.3.1.1}
