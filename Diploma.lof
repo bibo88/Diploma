@@ -1,10 +1,29 @@
-\contentsline {figure}{\numberline {2.1.1}{\ignorespaces Σχηματική αναπαράσταση OpenRISC αρχιτεκτονικής.}}{5}{figure.2.1.1}
-\contentsline {figure}{\numberline {2.2.1}{\ignorespaces Core's Architecture}}{8}{figure.2.2.1}
-\contentsline {figure}{\numberline {2.2.2}{\ignorespaces CPU/DSP block diagram.}}{9}{figure.2.2.2}
-\contentsline {figure}{\numberline {2.2.3}{\ignorespaces Οργάνωση κρυφής μνήμης δεδομένων.}}{13}{figure.2.2.3}
-\contentsline {figure}{\numberline {2.2.4}{\ignorespaces Οργάνωση κρυφής μνήμης εντολών}}{15}{figure.2.2.4}
-\contentsline {figure}{\numberline {2.2.5}{\ignorespaces Οργάνωση MMU δεδομένων.}}{17}{figure.2.2.5}
-\contentsline {figure}{\numberline {2.2.6}{\ignorespaces Οργάνωση MMU εντολών.}}{19}{figure.2.2.6}
-\contentsline {figure}{\numberline {2.2.7}{\ignorespaces Μπλοκ διάγραμμα του ελεγκτή διακοπών.}}{20}{figure.2.2.7}
-\contentsline {figure}{\numberline {2.2.8}{\ignorespaces Μπλόκ διάγραμμα μονάδας αποσφαλμάτωσης.}}{22}{figure.2.2.8}
-\contentsline {figure}{\numberline {3.1.1}{\ignorespaces Συνολική ροή εξομοίωσης.}}{24}{figure.3.1.1}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Σχηματική αναπαράσταση OpenRISC αρχιτεκτονικής.}}{11}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Core's Architecture}}{14}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces CPU/DSP block diagram.}}{15}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Οργάνωση κρυφής μνήμης δεδομένων.}}{22}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Οργάνωση κρυφής μνήμης εντολών}}{24}{figure.2.5}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Οργάνωση MMU δεδομένων.}}{26}{figure.2.6}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Μηχανισμός μετάφρασης διευθύνσεων με την χρήση 2-επιπέδων πίνακα σελιδοποίησης.}}{27}{figure.2.7}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Οργάνωση MMU εντολών.}}{29}{figure.2.8}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Μηχανισμός μετάφρασης διευθύνσεων με την χρήση 2-επιπέδων πίνακα σελιδοποίησης.}}{30}{figure.2.9}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Μπλοκ διάγραμμα του ελεγκτή διακοπών.}}{31}{figure.2.10}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Μπλόκ διάγραμμα μονάδας αποσφαλμάτωσης.}}{33}{figure.2.11}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Core's Interfaces}}{34}{figure.2.12}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Συνολική ροή προσομοίωσης.}}{39}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Διαδικασία Εγκατάστασης Προγραμμάτων}}{40}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Εντολές εγκατάστης του Or1ksim.}}{41}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Trial and Error Method}}{42}{figure.3.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Βασική μορφή διαύλου.}}{50}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Μπλοκ διάγραμμα συστήματος εργαστηρίου.}}{51}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Τοποθεσία Γέφυρας Επικοινωνίας}}{52}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces A typical AMBA AHB-based system}}{53}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Core's Architecture}}{56}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Τοποθεσία γεφυρών στο σύστημα μας}}{59}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Μπλοκ διαγραμμα γέφυρας επικοινωνίας.}}{60}{figure.4.7}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Σύστημα.}}{66}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Συνδεσμολογία Γεφυρας δεδομένων}}{68}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Συνδεσμολογία Γεφυρας Εντολών}}{69}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Κυματομορφή λειτουργίας μνήμης.}}{77}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Κυματομορφή λειτουργίας προσπέλασης.}}{78}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Επεξεργασμένη κυματομορφή.}}{79}{figure.5.6}

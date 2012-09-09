@@ -20,7 +20,7 @@
 % Author and supervisor
 \begin{minipage}{0.4\textwidth}
 \begin{flushleft} \large
-\emph{Συγγραφέας:}\\
+\emph{Author:}\\
 Χαράλαμπος 
 
 \textsc{Καλάργαρης}
@@ -28,11 +28,10 @@
 \end{minipage}
 \begin{minipage}{0.4\textwidth}
 \begin{flushright} \large
-\emph{Επιβλέπων:} \\
+\emph{Supervisor:} \\
 Θεμιστοκλής 
 
 \textsc{Χανιωτάκης}
-
 \end{flushright}
 \end{minipage}
 

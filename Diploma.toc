@@ -1,36 +1,67 @@
-\contentsline {section}{\numberline {1}Εισαγωγή}{4}{section.1}
-\contentsline {section}{\numberline {2}OpenRISC 1200 IP Core}{5}{section.2}
-\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{5}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}OpenRISC Οικογένεια}{5}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}OpenRISC 1200}{5}{subsubsection.2.1.2}
-\contentsline {subsection}{\numberline {2.2}Αρχιτεκτονική}{8}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}CPU/DSP}{8}{subsubsection.2.2.1}
-\contentsline {paragraph}{Μονάδα Εντολών\newline \newline }{9}{section*.4}
-\contentsline {paragraph}{Καταχωρητές Γενικού Σκοπού\newline \newline }{9}{section*.5}
-\contentsline {paragraph}{Μονάδα Load/Store\newline \newline }{10}{section*.6}
-\contentsline {paragraph}{Πράξεις ακεραίων\newline \newline }{10}{section*.7}
-\contentsline {paragraph}{Μονάδα MAC\newline \newline }{10}{section*.8}
-\contentsline {paragraph}{Μονάδα Κινητής Υποδιαστολής\newline \newline }{11}{section*.9}
-\contentsline {paragraph}{Μονάδα Συστήματος\newline \newline }{11}{section*.10}
-\contentsline {paragraph}{Μονάδα Εξαιρέσεων \newline \newline }{11}{section*.11}
-\contentsline {subsubsection}{\numberline {2.2.2}Κρυφή Μνήμη Δεδομένων}{11}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Κρυφή Μνήμη Εντολών}{14}{subsubsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.4}Διαχείριση Μνήμης (MMU) Δεδομένων}{16}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}Διαχείριση Μνήμης (MMU) Εντολών}{17}{subsubsection.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.6}Προγραμματιζόμενος Ελεγκτής Διακοπών}{19}{subsubsection.2.2.6}
-\contentsline {subsubsection}{\numberline {2.2.7}Tick Timer}{20}{subsubsection.2.2.7}
-\contentsline {subsubsection}{\numberline {2.2.8}Διαχείριση Ενεργειακών Απαιτήσεων}{20}{subsubsection.2.2.8}
-\contentsline {subsubsection}{\numberline {2.2.9}Μονάδα Αποσφαλμάτωσης}{21}{subsubsection.2.2.9}
-\contentsline {subsubsection}{\numberline {2.2.10}Σήματα Χρονισμού και Επανεκκίνησης}{21}{subsubsection.2.2.10}
-\contentsline {subsubsection}{\numberline {2.2.11}Δίαυλος επικοινωνίας Wishbone}{22}{subsubsection.2.2.11}
-\contentsline {section}{\numberline {3}OR1200 Simulation}{23}{section.3}
-\contentsline {subsection}{\numberline {3.1}Simulation Enviroment}{23}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Package Structure}{23}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Simulation commands}{25}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1} Η βασική διαδικασία}{25}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2} Εκτέλεση ενος συγκεκριμένου test}{25}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Εκτέλεση συγκεκριμένων tests μαζί}{25}{subsubsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.4} Παρέχοντας μια προσαρμοσμένη VMEM εικόνα (image)}{25}{subsubsection.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.5} Παρέχοντας ένα "precompiled" εκτελέσιμο .ELF αρχέιο}{26}{subsubsection.3.3.5}
-\contentsline {subsubsection}{\numberline {3.3.6} Κυματομορφές}{26}{subsubsection.3.3.6}
-\contentsline {subsubsection}{\numberline {3.3.7} Eπιπρόσθετα επιλογές στις εντολες}{26}{subsubsection.3.3.7}
+\contentsline {section}{\numberline {1}Εισαγωγή}{8}{section.1}
+\contentsline {paragraph}{\newline \newline Σκοπός\newline \newline }{8}{section*.4}
+\contentsline {paragraph}{\newline \newline Περιορισμοί - Τελικός Σκοπός\newline \newline }{9}{section*.5}
+\contentsline {paragraph}{\newline \newline Συνδρομή στο έργο της Ακαδημαϊκής κοινότητας \newline \newline }{9}{section*.6}
+\contentsline {paragraph}{\newline \newline Μορφή Αναφοράς Διπλωματικής εργασίας\newline \newline }{10}{section*.7}
+\contentsline {section}{\numberline {2}OpenRISC 1200 IP Core}{11}{section.2}
+\contentsline {subsection}{\numberline {2.1}Εισαγωγή}{11}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}OpenRISC Οικογένεια}{11}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}OpenRISC 1200}{12}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Αρχιτεκτονική}{14}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}CPU/FPU/DSP}{14}{subsubsection.2.2.1}
+\contentsline {paragraph}{Μονάδα Εντολών\newline \newline }{15}{section*.8}
+\contentsline {paragraph}{Καταχωρητές Γενικού Σκοπού\newline \newline }{16}{section*.9}
+\contentsline {paragraph}{Μονάδα Load/Store\newline \newline }{17}{section*.10}
+\contentsline {paragraph}{Πράξεις ακεραίων\newline \newline }{17}{section*.11}
+\contentsline {paragraph}{Μονάδα MAC\newline \newline }{18}{section*.12}
+\contentsline {paragraph}{Μονάδα Κινητής Υποδιαστολής\newline \newline }{18}{section*.13}
+\contentsline {paragraph}{Μονάδα Συστήματος\newline \newline }{19}{section*.14}
+\contentsline {paragraph}{Μονάδα Εξαιρέσεων \newline \newline }{19}{section*.15}
+\contentsline {subsubsection}{\numberline {2.2.2}Κρυφή Μνήμη Δεδομένων}{20}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Κρυφή Μνήμη Εντολών}{23}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Διαχείριση Μνήμης (MMU) Δεδομένων}{25}{subsubsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.5}Διαχείριση Μνήμης (MMU) Εντολών}{27}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.6}Προγραμματιζόμενος Ελεγκτής Διακοπών}{30}{subsubsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.7}Tick Timer}{31}{subsubsection.2.2.7}
+\contentsline {subsubsection}{\numberline {2.2.8}Διαχείριση Ενεργειακών Απαιτήσεων}{32}{subsubsection.2.2.8}
+\contentsline {subsubsection}{\numberline {2.2.9}Μονάδα Αποσφαλμάτωσης}{32}{subsubsection.2.2.9}
+\contentsline {subsubsection}{\numberline {2.2.10}Σήματα Χρονισμού και Επανεκκίνησης}{33}{subsubsection.2.2.10}
+\contentsline {subsubsection}{\numberline {2.2.11}Δίαυλος επικοινωνίας Wishbone}{33}{subsubsection.2.2.11}
+\contentsline {subsection}{\numberline {2.3}I/O Θύρες}{34}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Διεπαφή Συστήματος (System I/F)}{34}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Διεπαφή Ανάπτυξης (Development DB I/F)}{35}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Διεπαφή Ελέγχου Ενέργειας (Power Management I/F)}{35}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Διεπαφή Διακοπών (Interrupt I/F)}{36}{subsubsection.2.3.4}
+\contentsline {subsection}{\numberline {2.4}Παραμετροποίηση Επεξεργαστή}{37}{subsection.2.4}
+\contentsline {section}{\numberline {3}OR1200 Προσομοίωση}{38}{section.3}
+\contentsline {subsection}{\numberline {3.1}Περιβάλλον Προσομοίωσης}{38}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Εγκατάσταση Αλυσίδας Προσομοίωσης}{40}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Εγκατάσταση Αρχιτεκτονικού Προσομοιωτή - Or1ksim}{41}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Προσομοιωτής Υλικού NcVerilog}{43}{subsubsection.3.2.2}
+\contentsline {subsection}{\numberline {3.3}Δομή Αρχείων}{44}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Εντολές Προσομοίωσης}{45}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1} Η βασική διαδικασία}{45}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2} Εκτέλεση ενος συγκεκριμένου test}{46}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Εκτέλεση συγκεκριμένων tests μαζί}{46}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4} Παρέχοντας μια προσαρμοσμένη VMEM εικόνα (image)}{46}{subsubsection.3.4.4}
+\contentsline {subsubsection}{\numberline {3.4.5} Παρέχοντας ένα "precompiled" εκτελέσιμο .ELF αρχέιο}{46}{subsubsection.3.4.5}
+\contentsline {subsubsection}{\numberline {3.4.6} Καθαρισμός αρχείων}{47}{subsubsection.3.4.6}
+\contentsline {subsubsection}{\numberline {3.4.7} Κυματομορφές}{47}{subsubsection.3.4.7}
+\contentsline {subsubsection}{\numberline {3.4.8} Eπιπρόσθετες επιλογές στις εντολες}{47}{subsubsection.3.4.8}
+\contentsline {subsubsection}{\numberline {3.4.9} Απομόνωση .bin αρχείων}{48}{subsubsection.3.4.9}
+\contentsline {subsubsection}{\numberline {3.4.10} Επιβεβαίωση ορθής προσομοίωσης}{48}{subsubsection.3.4.10}
+\contentsline {section}{\numberline {4}Διαδικασία Γεφύρωσης}{50}{section.4}
+\contentsline {subsection}{\numberline {4.1}Σκοπός}{50}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}AMBA AHB Δίαυλος}{53}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}OR1200 - Wishbone Interface}{56}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Δημιουργία Γέφυρας}{59}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Θεωρητική ανάλυση}{59}{subsubsection.4.4.1}
+\contentsline {subsubsection}{\numberline {4.4.2}Υλοποίηση σε Verilog}{62}{subsubsection.4.4.2}
+\contentsline {section}{\numberline {5}Υλοποίηση Συστήματος}{66}{section.5}
+\contentsline {subsection}{\numberline {5.1}Συνδεσμολογία συστήματος}{66}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Προσομοίωση Συστήματος}{70}{subsection.5.2}
+\contentsline {paragraph}{1. Προσθήκη κατάλληλων αρχείων Verilog \newline \newline }{70}{section*.16}
+\contentsline {paragraph}{2. Τροποποίηση testbench\newline \newline }{75}{section*.17}
+\contentsline {paragraph}{3. Τροποποίηση Makefile\newline \newline }{75}{section*.18}
+\contentsline {paragraph}{4. Στάδιο Προσομοίωσης \newline \newline }{76}{section*.19}
+\contentsline {paragraph}{5. Προβολή Κυματομορφών - Σχολιασμός \newline \newline }{76}{section*.20}

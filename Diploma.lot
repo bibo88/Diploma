@@ -1,6 +1,19 @@
-\contentsline {table}{\numberline {2.1.1}{\ignorespaces Overview of OR1200 specifications}}{7}{table.2.1.1}
-\contentsline {table}{\numberline {2.2.1}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης δεδομένων}}{12}{table.2.2.1}
-\contentsline {table}{\numberline {2.2.2}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης εντολών}}{14}{table.2.2.2}
-\contentsline {table}{\numberline {2.2.3}{\ignorespaces Ρυθμίσεις Δεδομένων TLB (translation lookaside buffer)}}{16}{table.2.2.3}
-\contentsline {table}{\numberline {2.2.4}{\ignorespaces Ρυθμίσεις Εντολών TLB (translation lookaside buffer)}}{18}{table.2.2.4}
-\contentsline {table}{\numberline {2.2.5}{\ignorespaces Καταστάσεις βελτιστοποίησης κατανάλωσης ενέργειας.}}{21}{table.2.2.5}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Overview of OR1200 specifications}}{13}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Λίστα εντολών OR1200.}}{16}{table.2.2}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Χρόνοι εκτέλεσης πράξεων ακεραίων.}}{18}{table.2.3}
+\contentsline {table}{\numberline {2.4}{\ignorespaces Χρόνοι εκτέλεσης εντολών κινητής υποδιαστολής.}}{19}{table.2.4}
+\contentsline {table}{\numberline {2.5}{\ignorespaces Λίστα εξαιρέσεων.}}{20}{table.2.5}
+\contentsline {table}{\numberline {2.6}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης δεδομένων}}{21}{table.2.6}
+\contentsline {table}{\numberline {2.7}{\ignorespaces Ρυθμίσεις μεγέθους κρυφής μνήμης εντολών}}{23}{table.2.7}
+\contentsline {table}{\numberline {2.8}{\ignorespaces Ρυθμίσεις Δεδομένων TLB (translation lookaside buffer)}}{25}{table.2.8}
+\contentsline {table}{\numberline {2.9}{\ignorespaces Ρυθμίσεις Εντολών TLB (translation lookaside buffer)}}{27}{table.2.9}
+\contentsline {table}{\numberline {2.10}{\ignorespaces Καταστάσεις βελτιστοποίησης κατανάλωσης ενέργειας.}}{32}{table.2.10}
+\contentsline {table}{\numberline {2.11}{\ignorespaces Σήματα διεπαφής συστήματος.}}{35}{table.2.11}
+\contentsline {table}{\numberline {2.12}{\ignorespaces Development Interface}}{35}{table.2.12}
+\contentsline {table}{\numberline {2.13}{\ignorespaces Σήματα διεπαφής ελέγχου ενέργειας}}{36}{table.2.13}
+\contentsline {table}{\numberline {2.14}{\ignorespaces Σήματα διεπαφής διακοπών}}{36}{table.2.14}
+\contentsline {table}{\numberline {2.15}{\ignorespaces Παραμετροποίηση Υλικού.}}{37}{table.2.15}
+\contentsline {table}{\numberline {4.1}{AMBA AHB Signals}}{54}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Instruction WISHBONE Master Interface’ Signals}}{57}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Data WISHBONE Master Interface’ Signals}}{58}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Σήματα γέφυρας επικοινωνίας.}}{61}{table.4.4}
